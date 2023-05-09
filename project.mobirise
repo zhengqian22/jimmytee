@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -194,7 +194,7 @@
               "color": "#ffbf00"
             },
             ".card-title, .card-box": {
-              "color": "#372c14"
+              "color": "#353535"
             }
           },
           "_name": "features14",
@@ -266,6 +266,12 @@
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#353535"
+            },
+            ".icon-text": {
+              "color": "#353535"
+            },
+            ".icon-title": {
+              "color": "#353535"
             }
           },
           "_name": "features13",
@@ -319,6 +325,12 @@
             },
             ".mbr-section-title": {
               "color": "#0041bb"
+            },
+            ".mbr-text": {
+              "color": "#353535"
+            },
+            ".name": {
+              "color": "#353535"
             }
           },
           "_name": "testimonials2",
@@ -1595,10 +1607,12 @@
               "color": "#232323"
             },
             ".mbr-text, .mbr-section-btn": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#353535"
             },
             ".item-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#353535"
             },
             ".item-subtitle": {
               "text-align": "left",
@@ -1745,6 +1759,9 @@
             "H1": {
               "text-align": "center",
               "color": "#0041bb"
+            },
+            "P": {
+              "color": "#353535"
             }
           },
           "_name": "form2",
@@ -2329,6 +2346,9 @@
             },
             ".mbr-section-title": {
               "color": "#0041bb"
+            },
+            ".mbr-text": {
+              "color": "#353535"
             }
           },
           "_name": "image1",
@@ -2392,6 +2412,9 @@
             },
             ".mbr-section-title": {
               "color": "#ffc300"
+            },
+            ".mbr-text": {
+              "color": "#353535"
             }
           },
           "_name": "image2",
@@ -2448,6 +2471,12 @@
               "justify-content": "center"
             },
             ".mbr-section-title": {
+              "color": "#353535"
+            },
+            ".card-text": {
+              "color": "#353535"
+            },
+            ".card-title, .iconfont-wrapper": {
               "color": "#353535"
             }
           },
